@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alexander Berglund</h1>
-<h3 align="center">Computer Science student at Linnéuniversitetet, Sweden🌟.</h3>
 
 <br>
 
